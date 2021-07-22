@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paweł Sieńkowski
-- 👀 I’m interested in internship 
+- 👀 Frontend Developer Intern at JIT Team
 - 🎓 I’m currently studying IT at the University of Gdańsk
 - ☕ I’m looking to collaborate on fun projects
 - 📫 How to reach me ➞ [LinkedIn](https://www.linkedin.com/in/sienkowski-pawel)
