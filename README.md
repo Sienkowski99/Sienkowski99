@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Paweł Sieńkowski
-- 👀 Frontend Developer Intern at JIT Team
-- 🎓 I’m currently studying IT at the University of Gdańsk
-- ☕ I’m looking to collaborate on fun projects
+- 👀 Fullstack Developer at Airspace Intelligence
+- 🎓 Finishing Masters at WSB Nerito
 - 📫 How to reach me ➞ [LinkedIn](https://www.linkedin.com/in/sienkowski-pawel)
 
 <!---
