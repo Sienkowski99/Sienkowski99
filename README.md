@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paweł Sieńkowski
-- 👀 Fullstack Developer at Airspace Intelligence
+- 👀 Fullstack Developer at Air Space Intelligence
 - 🎓 Finishing Masters at WSB Merito
 - 📫 How to reach me ➞ [LinkedIn](https://www.linkedin.com/in/sienkowski-pawel)
 
